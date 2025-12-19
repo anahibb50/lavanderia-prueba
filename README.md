@@ -34,3 +34,5 @@ más no se eliminan de la base de datos
 
 Esto se hace así debido a que en caso de que haya un reclamo se puede ver el pedido y corroborar la información en caso de reclamo
 
+# 4. Reglas
+Al momento de crear se crea por defecto en estado lavado ya que es la entrada del pedido, no se puede poner como listo u otro nombre
